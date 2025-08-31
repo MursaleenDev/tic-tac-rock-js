@@ -1,4 +1,7 @@
-# tic-tac-rock-js
+# Tic-Tac-Rock-JS
+
+A simple Tic Tac Toe game built with **HTML, CSS, and JavaScript**.  
+This project is part of my web development learning journey. 
 
 # Tic Tac Toe 
 
